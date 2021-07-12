@@ -1,16 +1,11 @@
 # Google Sheet API
 
-A new Flutter project.
+Este pequeno projeto mostra como utilizar planilhas do Google como backend em aplicações Flutter.
 
-## Getting Started
+Create User
+![Screenshot_1626115300](https://user-images.githubusercontent.com/46230483/125355465-77f43200-e33b-11eb-8d10-770cadac8569.png)
 
-This project is a starting point for a Flutter application.
+Read/Update/Delete User
+![Screenshot_1626115357](https://user-images.githubusercontent.com/46230483/125355467-788cc880-e33b-11eb-996b-8c8b425cc4ea.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
